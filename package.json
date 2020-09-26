@@ -28,7 +28,7 @@
 		"node": ">=10"
 	},
 	"dependencies": {
-		"hafas-client": "^5.0.1"
+		"hafas-client": "git://github.com/findus/hafas-client#7d87631aff22512d7e8f63c054323389cab5d70f"
 	},
 	"scripts": {
 		"smoke-test": "env NODE_ENV=dev node example.js >/dev/null",
